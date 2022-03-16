@@ -10,7 +10,7 @@
     { "id": 2, "body": "2nd comment for postID 1", "postId": 1 },
     { "id": 3, "body": "1st comment for postID 2", "postId": 2 }
   ],
-  "profile": [
+  "profile": 
     { "name": "Mbulelo", "surname": "Damba" }
-]
+
 }
